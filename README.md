@@ -16,23 +16,30 @@ In this project I was tasked with creating a way to share some UFO sightings dat
 ## Results & Visualizations
 
 ### Generated Code 
-#### JavaScript Code [static/js/app.js]( static/js/app.js)
+#### JavaScript Code 
+[static/js/app.js](static/js/app.js)
 ![images/app_code.png](images/app_code.png)
 
-#### CSS Code [static/css/style.css]( static/css/style.css)
+#### CSS Code 
+[static/css/style.css](static/css/style.css)
 ![images/css_code.png](images/css_code.png)
 
-#### HTML Code [index.html]( index.html)
+#### HTML Code 
+[index.html](index.html)
 ![images/index_code.png](images/index_code.png)
 
-### Webpage Description 
+### Webpage: https://kimberlyw618.github.io/UFO-s/
 
-![images/ufo_site.png](images/ufo_site.png)
+### Webpage Images: 
+
+#### Top of Page
 [images/ufo_site.png](images/ufo_site.png)
+![images/ufo_site.png](images/ufo_site.png)
 
-![images/filter_table.png](images/filter_table.png)
+#### Table With Filters
 [images/filter_table.png](images/filter_table.png)
+![images/filter_table.png](images/filter_table.png)
 
-
+### Webpage Description: 
 
 ### Summary of Findings 
